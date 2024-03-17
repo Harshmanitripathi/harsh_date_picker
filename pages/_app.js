@@ -1,9 +1,6 @@
-import {
-    ChakraBaseProvider,
-    extendBaseTheme as chakraTheme,
-  } from '@chakra-ui/react'
-import theme from '../theme'
-  
+import { ChakraBaseProvider } from "@chakra-ui/react";
+import theme from "../themes";
+
 
 export default function App({ Component, pageProps }) {
     return (
