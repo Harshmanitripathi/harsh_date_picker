@@ -13,5 +13,23 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-  }
+  },
+  "name": "harsh_date_picker",
+  "description": "An npm package to select the dates from calender.",
+  "version": "1.0.0",
+  "main": "pages/index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshmanitripathi/harsh_date_picker.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Harsh Mani Tripathi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Harshmanitripathi/harsh_date_picker/issues"
+  },
+  "homepage": "https://github.com/Harshmanitripathi/harsh_date_picker#readme"
 }
