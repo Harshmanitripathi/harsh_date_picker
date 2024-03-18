@@ -18,6 +18,7 @@
   "description": "An npm package to select the dates from calender.",
   "version": "1.0.0",
   "main": "pages/index.js",
+  "type": "module",
   "devDependencies": {},
   "repository": {
     "type": "git",
